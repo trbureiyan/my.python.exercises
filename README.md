@@ -8,5 +8,5 @@
 
 ## Lista de ejercicios que puedes explorar:
 
-- [Juego Pidra vs papel vs tijeras](https://github.com/trbureiyan/my.python.exercises/blob/main/Exercises/001%20piedra_papel_tijera.py)
+- [Juego Piedra vs papel vs tijeras](https://github.com/trbureiyan/my.python.exercises/blob/main/Exercises/001%20piedra_papel_tijera.py)
 - Coming soon...
