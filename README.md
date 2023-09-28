@@ -5,3 +5,8 @@
 <h3> Un repo con ejercicios de python a mi modo o logica que he hecho para practicar :) </h3>
 
 <h4>Hola buenas gente! Bienvenido a este repositorio donde tengo guardado algunos ejercicios de python que he hecho por mi propia cuenta, pueden revisar el codigo y probar el funcionamiento. Es un proyecto personal asi que estare actualizando de vez en cuando para practicar python y mi logica de programacion.</h4>
+
+## Lista de ejercicios que puedes explorar:
+
+- [Juego Pidra vs papel vs tijeras](https://github.com/trbureiyan/my.python.exercises/blob/main/Exercises/001%20piedra_papel_tijera.py)
+- Coming soon...
